@@ -2721,3 +2721,20 @@
 		<td></td>
 	</tr>
 </table>
+<table>
+	<tr>
+		<th colspan="2">We'll just say you win. So can we stop this?</th>
+	</tr>
+	<tr>
+		<td>I feel bad.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>I don't agree with this.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>We can say you won.</td>
+		<td>ok - irritable</td>
+	</tr>
+</table>

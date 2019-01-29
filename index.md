@@ -2738,3 +2738,37 @@
 		<td>ok - irritable</td>
 	</tr>
 </table>
+<table>
+	<tr>
+		<th colspan="2">Are there only men's? Where did you get it?</th>
+	</tr>
+	<tr>
+		<td>A thrift shop.</td>
+		<td>ok - irritable</td>
+	</tr>
+	<tr>
+		<td>Internet shopping.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>It's not available for sale.</td>
+		<td></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th colspan="2">You're lucky it was just me. You can't do anything like this in the real world, right?</th>
+	</tr>
+	<tr>
+		<td>That's right.</td>
+		<td>good - irritable</td>
+	</tr>
+	<tr>
+		<td>I choose my targets carefully.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>I'm serious about this.</td>
+		<td></td>
+	</tr>
+</table>

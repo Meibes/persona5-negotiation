@@ -1554,7 +1554,7 @@
 	</tr>
 	<tr>
 		<td>I didn't know.</td>
-		<td>bad - timid</td>
+		<td>bad - timid, bad - irritable</td>
 	</tr>
 	<tr>
 		<td>Not if no one finds out.</td>
@@ -2769,6 +2769,23 @@
 	</tr>
 	<tr>
 		<td>I'm serious about this.</td>
+		<td></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th colspan="2">Life's nothing but pain .., Just do whatever you want.</th>
+	</tr>
+	<tr>
+		<td>You should have stayed home.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>You won't die easily.</td>
+		<td>bad - irritable</td>
+	</tr>
+	<tr>
+		<td>Don't get desperate.</td>
 		<td></td>
 	</tr>
 </table>

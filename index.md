@@ -1562,7 +1562,7 @@
 	</tr>
 	<tr>
 		<td>Pretty cool, huh?</td>
-		<td></td>
+		<td>bad - gloomy</td>
 	</tr>
 </table>
 <table>
@@ -2012,8 +2012,8 @@
 		<th colspan="2">I'm sure a miracle's gonna happen to me, right?</th>
 	</tr>
 	<tr>
-		<td>Miracles don't happen [...]</td>
-		<td></td>
+		<td>Miracles don't exist.</td>
+		<td>ok - gloomy</td>
 	</tr>
 	<tr>
 		<td>I'd be jealous if it did.</td>

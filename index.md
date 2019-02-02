@@ -2115,7 +2115,7 @@
 	</tr>
 	<tr>
 		<td>Happy birthday.</td>
-		<td></td>
+		<td>ok - gloomy</td>
 	</tr>
 	<tr>
 		<td>I had no idea.</td>

@@ -1490,7 +1490,7 @@
 	</tr>
 	<tr>
 		<td>Not my problem.</td>
-		<td></td>
+		<td>bad - gloomy</td>
 	</tr>
 	<tr>
 		<td>Don't lie.</td>
@@ -2774,11 +2774,11 @@
 </table>
 <table>
 	<tr>
-		<th colspan="2">Life's nothing but pain .., Just do whatever you want.</th>
+		<th colspan="2">Life's nothing but pain anyways, Just do whatever you want.</th>
 	</tr>
 	<tr>
 		<td>You should have stayed home.</td>
-		<td></td>
+		<td>bad - gloomy</td>
 	</tr>
 	<tr>
 		<td>You won't die easily.</td>

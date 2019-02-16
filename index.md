@@ -993,7 +993,7 @@
 	</tr>
 	<tr>
 		<td>Don't joke around.</td>
-		<td>bad - irritable</td>
+		<td>bad - irritable; good - gloomy</td>
 	</tr>
 	<tr>
 		<td>Just endure it.</td>

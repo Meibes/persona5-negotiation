@@ -474,7 +474,7 @@
 	</tr>
 	<tr>
 		<td>It's what we call destiny.</td>
-		<td>good - upbeat</td>
+		<td>good - upbeat; ok - gloomy</td>
 	</tr>
 </table>
 <table>

@@ -2789,3 +2789,20 @@
 		<td></td>
 	</tr>
 </table>
+<table>
+	<tr>
+		<th colspan="2">The truth is... You're a good person, aren't you?</th>
+	</tr>
+	<tr>
+		<td>I get that a lot.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Actually... I'm bad.</td>
+		<td>bad - gloomy</td>
+	</tr>
+	<tr>
+		<td>Are you mocking me?</td>
+		<td></td>
+	</tr>
+</table>

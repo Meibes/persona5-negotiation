@@ -466,7 +466,7 @@
 	</tr>
 	<tr>
 		<td>Eh, could be.</td>
-		<td></td>
+		<td>ok - gloomy</td>
 	</tr>
 	<tr>
 		<td>No, I don't think so.</td>

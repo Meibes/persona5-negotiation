@@ -708,7 +708,7 @@
 	</tr>
 	<tr>
 		<td>I didn't see any "vibes."</td>
-		<td>bad - upbeat</td>
+		<td>bad - upbeat; ok - gloomy</td>
 	</tr>
 	<tr>
 		<td>But we may never meet again...</td>
@@ -1724,7 +1724,7 @@
 	</tr>
 	<tr>
 		<td>I do.</td>
-		<td></td>
+		<td>ok - gloomy</td>
 	</tr>
 	<tr>
 		<td>I don't think its unfair.</td>
@@ -2374,7 +2374,7 @@
 	</tr>
 	<tr>
 		<td>That's right.</td>
-		<td>bad - timid</td>
+		<td>bad - timid; bad - gloomy</td>
 	</tr>
 	<tr>
 		<td>I have ulterior motives.</td>

@@ -1252,7 +1252,7 @@
 	</tr>
 	<tr>
 		<td>Loud talkers...</td>
-		<td></td>
+		<td>good - irritable</td>
 	</tr>
 	<tr>
 		<td>Nobody.</td>
@@ -2119,7 +2119,7 @@
 	</tr>
 	<tr>
 		<td>I had no idea.</td>
-		<td></td>
+		<td>ok - irritable</td>
 	</tr>
 	<tr>
 		<td>This'll be your deathday too.</td>

@@ -551,11 +551,11 @@
 	</tr>
 	<tr>
 		<td>I don't really train.</td>
-		<td>good - irritable </td>
+		<td>good - irritable</td>
 	</tr>
 	<tr>
 		<td>I just have a knack for it.</td>
-		<td>ok - gloomy; bad - irritable</td>
+		<td>ok - gloomy; bad - irritable; good - timid</td>
 	</tr>
 	<tr>
 		<td>Luck's usually on my side.</td>

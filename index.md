@@ -1811,7 +1811,7 @@ a full list of shadows can be found here: https://megamitensei.fandom.com/wiki/L
 	</tr>
 	<tr>
 		<td>OK, I'll make you into soup.</td>
-		<td>bad - irritable</td>
+		<td>bad - irritable; good - gloomy</td>
 	</tr>
 	<tr>
 		<td>Fine I'll grill you.</td>

@@ -1562,7 +1562,7 @@
 	</tr>
 	<tr>
 		<td>Pretty cool, huh?</td>
-		<td>bad - gloomy</td>
+		<td>bad - gloomy; bad - irritable</td>
 	</tr>
 </table>
 <table>
@@ -2803,6 +2803,23 @@
 	</tr>
 	<tr>
 		<td>Are you mocking me?</td>
+		<td></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th colspan="2">How 'bout you? You wanna get married someday?</th>
+	</tr>
+	<tr>
+		<td>I do.</td>
+		<td>good - irritable</td>
+	</tr>
+	<tr>
+		<td>I don't.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>That's impossible</td>
 		<td></td>
 	</tr>
 </table>

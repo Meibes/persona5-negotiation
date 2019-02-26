@@ -2544,7 +2544,7 @@
 	</tr>
 	<tr>
 		<td>There is no such thing.</td>
-		<td>ok - irritable ; good - timid</td>
+		<td>ok - irritable; good - timid; good - gloomy</td>
 	</tr>
 	<tr>
 		<td>I want to end this fate.</td>

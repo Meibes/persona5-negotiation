@@ -504,7 +504,7 @@
 	</tr>
 	<tr>
 		<td>It's money.</td>
-		<td></td>
+		<td>ok - gloomy</td>
 	</tr>
 	<tr>
 		<td>Girl power.</td>

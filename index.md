@@ -1,3 +1,5 @@
+a full list of shadows can be found here: https://megamitensei.fandom.com/wiki/List_of_Persona_5_Shadows
+
 | Description               | Shadow           | Personality |
 |---------------------------|------------------|-------------|
 | Crypt-dwelling Pyromaniac | Jack-o-Lantern   | Gloomy      |

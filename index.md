@@ -2825,3 +2825,20 @@ a full list of shadows can be found here: https://megamitensei.fandom.com/wiki/L
 		<td></td>
 	</tr>
 </table>
+<table>
+	<tr>
+		<th colspan="2">I would have never accepted this task if I knew it would involve this sort of suffering.</th>
+	</tr>
+	<tr>
+		<td>What a pity...</td>
+		<td>good - gloomy</td>
+	</tr>
+	<tr>
+		<td>Uninformed choices are bad.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Complaining won't help.</td>
+		<td></td>
+	</tr>
+</table>

@@ -302,7 +302,7 @@ a full list of shadows can be found here: https://megamitensei.fandom.com/wiki/L
 	</tr>
 	<tr>
 		<td>I don't have the time.</td>
-		<td></td>
+		<td>ok - gloomy</td>
 	</tr>
 	<tr>
 		<td>You've got the wrong idea.</td>
@@ -455,7 +455,7 @@ a full list of shadows can be found here: https://megamitensei.fandom.com/wiki/L
 	</tr>
 	<tr>
 		<td>Eh, doesn't matter.</td>
-		<td>bad - upbeat</td>
+		<td>good - gloomy; bad - upbeat</td>
 	</tr>
 	<tr>
 		<td>What do you mean?</td>

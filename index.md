@@ -748,7 +748,7 @@ a full list of shadows can be found here: https://megamitensei.fandom.com/wiki/L
 	</tr>
 	<tr>
 		<td>It's a matter of feeling.</td>
-		<td></td>
+		<td>ok - gloomy</td>
 	</tr>
 </table>
 <table>
@@ -2839,6 +2839,23 @@ a full list of shadows can be found here: https://megamitensei.fandom.com/wiki/L
 	</tr>
 	<tr>
 		<td>Complaining won't help.</td>
+		<td></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th colspan="2">Would you do to anyone what you're doing to me now?</th>
+	</tr>
+	<tr>
+		<td>I sure would.</td>
+		<td>ok - gloomy</td>
+	</tr>
+	<tr>
+		<td>No, I wouldn't.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>This is a special exception.</td>
 		<td></td>
 	</tr>
 </table>

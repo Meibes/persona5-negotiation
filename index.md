@@ -2512,7 +2512,7 @@ a full list of shadows can be found here: https://megamitensei.fandom.com/wiki/L
 	</tr>
 	<tr>
 		<td>Not at all.</td>
-		<td>bad - irritable, gloomy</td>
+		<td>good - upbeat; bad - irritable, gloomy</td>
 	</tr>
 	<tr>
 		<td>Why does that matter?</td>

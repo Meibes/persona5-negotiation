@@ -2859,3 +2859,37 @@ a full list of shadows can be found here: https://megamitensei.fandom.com/wiki/L
 		<td></td>
 	</tr>
 </table>
+<table>
+	<tr>
+		<th colspan="2">But I've been around the block, so I know - there's something else you want from me, isn't there?</th>
+	</tr>
+	<tr>
+		<td>I'm acting on a whim.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>I love the elderly.</td>
+		<td>good - timid</td>
+	</tr>
+	<tr>
+		<td>I just want you to die happy.</td>
+		<td></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th colspan="2">You'll have a bleak future if you spend too much time running around pretending to be a phantom thief.</th>
+	</tr>
+	<tr>
+		<td>Thank you.</td>
+		<td>good - timid</td>
+	</tr>
+	<tr>
+		<td>None of your business.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>It's worth it.</td>
+		<td></td>
+	</tr>
+</table>
